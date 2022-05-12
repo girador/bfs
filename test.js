@@ -6,7 +6,7 @@
 $(document).ready(function() {
 
 
-alert('ok);
+alert('ok');
 
 });
 
